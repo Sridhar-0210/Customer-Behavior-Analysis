@@ -2,8 +2,6 @@
 
 Analysis of 3,900 retail transactions using **Python, PostgreSQL and Power BI** to understand customer spending and guide marketing decisions.
 
-![Customer Behavior Dashboard](images/dashboard.png)
-
 ## Dashboard Highlights
 - **3.9K customers**, **$59.76** average purchase, **3.75** average review rating
 - Interactive filters for subscription status, gender, category and shipping type
